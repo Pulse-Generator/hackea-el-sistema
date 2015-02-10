@@ -9,4 +9,4 @@ En este repo encontrarás referencias a nuestra visión, filosofía, motivación
 
 ### ¿Quieres sumarte?
 
-Revisa [nuestra convocatoria](https://github.com/mxabierto/hackea-el-sistema/wiki/S%C3%A9-parte-del-equipo-de-M%C3%A9xico-Abierto) en la Wiki.
+Revisa [nuestra convocatoria](https://github.com/mxabierto/hackea-el-sistema/wiki/Colabora-en-el-proyecto-M%C3%A9xico-Abierto) en la Wiki.
