@@ -1,4 +1,3 @@
-### hackea-el-sistema
 _Hackear el sistema hoy es posible_
 
 # En [México Abierto](http://mxabierto.tumblr.com/) creamos mecanismos de innovación y colaboración entre ciudadanos y gobierno con herramientas digitales, para impulsar el desarrollo del país.
